@@ -1,0 +1,15 @@
+/Users/yas/Developments/DotNET/NpgsqlTrial/IssueWithNpgsqlEFCoreProvider/ProjectWithLibFixed/obj/Debug/netcoreapp2.2/ProjectWithLibFixed.csprojAssemblyReference.cache
+/Users/yas/Developments/DotNET/NpgsqlTrial/IssueWithNpgsqlEFCoreProvider/ProjectWithLibFixed/obj/Debug/netcoreapp2.2/ProjectWithLibFixed.csproj.CoreCompileInputs.cache
+/Users/yas/Developments/DotNET/NpgsqlTrial/IssueWithNpgsqlEFCoreProvider/ProjectWithLibFixed/obj/Debug/netcoreapp2.2/ProjectWithLibFixed.AssemblyInfoInputs.cache
+/Users/yas/Developments/DotNET/NpgsqlTrial/IssueWithNpgsqlEFCoreProvider/ProjectWithLibFixed/obj/Debug/netcoreapp2.2/ProjectWithLibFixed.AssemblyInfo.cs
+/Users/yas/Developments/DotNET/NpgsqlTrial/IssueWithNpgsqlEFCoreProvider/ProjectWithLibFixed/bin/Debug/netcoreapp2.2/ProjectWithLibFixed.deps.json
+/Users/yas/Developments/DotNET/NpgsqlTrial/IssueWithNpgsqlEFCoreProvider/ProjectWithLibFixed/bin/Debug/netcoreapp2.2/ProjectWithLibFixed.runtimeconfig.json
+/Users/yas/Developments/DotNET/NpgsqlTrial/IssueWithNpgsqlEFCoreProvider/ProjectWithLibFixed/bin/Debug/netcoreapp2.2/ProjectWithLibFixed.runtimeconfig.dev.json
+/Users/yas/Developments/DotNET/NpgsqlTrial/IssueWithNpgsqlEFCoreProvider/ProjectWithLibFixed/bin/Debug/netcoreapp2.2/ProjectWithLibFixed.dll
+/Users/yas/Developments/DotNET/NpgsqlTrial/IssueWithNpgsqlEFCoreProvider/ProjectWithLibFixed/bin/Debug/netcoreapp2.2/ProjectWithLibFixed.pdb
+/Users/yas/Developments/DotNET/NpgsqlTrial/IssueWithNpgsqlEFCoreProvider/ProjectWithLibFixed/bin/Debug/netcoreapp2.2/Microsoft.EntityFrameworkCore.Design.dll
+/Users/yas/Developments/DotNET/NpgsqlTrial/IssueWithNpgsqlEFCoreProvider/ProjectWithLibFixed/bin/Debug/netcoreapp2.2/Microsoft.EntityFrameworkCore.Design.pdb
+/Users/yas/Developments/DotNET/NpgsqlTrial/IssueWithNpgsqlEFCoreProvider/ProjectWithLibFixed/bin/Debug/netcoreapp2.2/Microsoft.EntityFrameworkCore.Design.xml
+/Users/yas/Developments/DotNET/NpgsqlTrial/IssueWithNpgsqlEFCoreProvider/ProjectWithLibFixed/obj/Debug/netcoreapp2.2/ProjectWithLibFixed.csproj.CopyComplete
+/Users/yas/Developments/DotNET/NpgsqlTrial/IssueWithNpgsqlEFCoreProvider/ProjectWithLibFixed/obj/Debug/netcoreapp2.2/ProjectWithLibFixed.dll
+/Users/yas/Developments/DotNET/NpgsqlTrial/IssueWithNpgsqlEFCoreProvider/ProjectWithLibFixed/obj/Debug/netcoreapp2.2/ProjectWithLibFixed.pdb
