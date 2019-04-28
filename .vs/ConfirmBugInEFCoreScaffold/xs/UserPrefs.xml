@@ -1,14 +1,15 @@
 ﻿<Properties StartupConfiguration="{0893B2F1-C11E-4564-8262-BC1E52B79714}|Default">
   <MonoDevelop.Ide.ItemProperties.ProjectWithLibReleased PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="run_test.sh">
+  <MonoDevelop.Ide.Workbench ActiveDocument=".gitignore">
     <Files>
-      <File FileName="run_test.sh" Line="31" Column="71" />
+      <File FileName="run_test.sh" Line="36" Column="51" />
+      <File FileName=".gitignore" Line="347" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="ConfirmBugInEFCoreScaffold" expanded="True" selected="True">
-            <Node name="Solution Items" expanded="True" />
+          <Node name="ConfirmBugInEFCoreScaffold" expanded="True">
+            <Node name="Solution Items" expanded="True" selected="True" />
             <Node name="ProjectWithLibFixed" expanded="True" />
             <Node name="ProjectWithLibReleased" expanded="True" />
           </Node>

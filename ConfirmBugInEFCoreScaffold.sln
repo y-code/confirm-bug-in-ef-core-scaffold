@@ -12,6 +12,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		run_test.sh = run_test.sh
 		run_test_with_lib_released.sh = run_test_with_lib_released.sh
 		run_test_with_lib_fixed.sh = run_test_with_lib_fixed.sh
+		.gitignore = .gitignore
 	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjectWithLibReleased", "ProjectWithLibReleased\ProjectWithLibReleased.csproj", "{0893B2F1-C11E-4564-8262-BC1E52B79714}"
